@@ -1,40 +1,35 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guru%20Rengarajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18&descColor=a0a0c0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guru%20Rengarajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Data%20Analyst%20•%20Problem%20Solver&descAlignY=60&descSize=18&descColor=a0a0c0" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://github.com/Guru200616">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+products+that+matter.;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+data+into+decisions.;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&width=700&lines=Building+scalable+products+that+matter.;Full-Stack+Developer+%7C+React+%7C+Node.js+%7C+Python;Turning+data+into+decisions.;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Guru200616&style=for-the-badge&color=7c83fd&label=PROFILE+VIEWS" />
-  &nbsp;
   <a href="https://github.com/Guru200616?tab=followers">
     <img src="https://img.shields.io/github/followers/Guru200616?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS" />
   </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FULL--STACK%20%7C%20SWE-00c896?style=for-the-badge&labelColor=0a3d2b" />
 </p>
 
 <p>
-  <a href="mailto:guru.rengarajan@email.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/guru-rengarajan">
+  <a href="https://www.linkedin.com/in/guru-rengarajan-06231a306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://guru-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/Guru200616" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/Guru200616">
+  <a href="https://leetcode.com/Guru200616" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -42,6 +37,35 @@
 </div>
 
 ---
+
+# 👨‍💻 About Me
+
+```yaml
+name       : Guru Rengarajan
+location   : Tamil Nadu, India
+role       : Full-Stack Developer & Data Analyst
+
+available  :
+  - Software Engineering Roles
+  - Full-Stack Development Internships
+  - Open Source Collaboration
+
+socials :
+  github   : https://github.com/Guru200616
+  linkedin : https://www.linkedin.com/in/guru-rengarajan-06231a306/
+  leetcode : https://leetcode.com/Guru200616
+
+currently :
+  - Building Full-Stack Web Applications
+  - Practicing Data Structures & Algorithms
+  - Learning System Design
+  - Contributing to Open Source
+
+goal :
+  - Secure a Software Engineering role at a top MNC
+
+belief :
+  "Software is valuable only when it solves real-world problems."
 
 ## ⬡ &nbsp;About Me
 
